@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ALX Projects
-- 🌱 I’m currently learning Python
+🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Tech or anything that revoves around it
+💬 Ask me about Tech or anything that revoves around it
 - 📫 How to reach me: ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: I have learned over the years that when one’s mind is made up, this diminishes fear.
+😄 Pronouns: He
+⚡ Fun fact: I have learned over the years that when one’s mind is made up, this diminishes fear.
 -->
