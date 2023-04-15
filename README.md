@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ALX Projects
+- 🔭 I’m currently working on ALX Projects #DOHARDTHINGS
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Tech or anything that revoves around it
 - 😄 Pronouns: He
