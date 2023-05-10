@@ -5,7 +5,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have learned over the years that when one’s mind is made up, this diminishes fear.
 
-![Github Stats] (https://github-readme-stats.vercel.app/api username=CARTOON01&theme=radical)
+![Github Stats] (https://github-readme-stats.vercel.app/api?username=CARTOON01&theme=radical)
 <!--
 **CARTOON01/CARTOON01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
