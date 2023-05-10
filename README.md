@@ -4,6 +4,8 @@
 - 💬 Ask me about Tech or anything that revoves around it
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have learned over the years that when one’s mind is made up, this diminishes fear.
+
+https://github-readme-stats.vercel.app/api?username=CARTOON01&show_icons=true
 <!--
 **CARTOON01/CARTOON01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
