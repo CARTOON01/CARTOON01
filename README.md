@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cartoon01.github.io](https://cartoon01.github.io)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, Html, css, scss**
 
 - ⚡ Fun fact **Always drinking coffee**
 
