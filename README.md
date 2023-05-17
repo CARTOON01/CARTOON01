@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **ALX Projects #DOHARDTHINGS**
 
-- 🌱 I’m currently learning **ALX**
+- 🌱 I’m currently learning **Python, React, Backend Development**
 
-- 👯 I’m looking to collaborate on **ALX**
+- 👯 I’m looking to collaborate on **Web Application Projects**
 
 - 👨‍💻 All of my projects are available at [https://cartoon01.github.io](https://cartoon01.github.io)
 
