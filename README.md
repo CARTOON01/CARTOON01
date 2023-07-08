@@ -18,5 +18,5 @@ greet()
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cartoon01&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cartoon01" width="400" />
 
-img src="https://github-readme-stats.vercel.app/api?username=cartoon01&show_icons=true&count_private=true&theme=github_dark" alt="Brian GitHub stats" width="420" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=cartoon01&show_icons=true&count_private=true&theme=github_dark" alt="Brian GitHub stats" width="420" /></p>
 
