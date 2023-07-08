@@ -11,6 +11,6 @@ greet()
 
 # GitHub Statistics
 
-[![wakatime](https://wakatime.com/badge/user/04d9ef08-6345-44d6-88a5-c4b7c8b0384e.svg)](https://wakatime.com/@04d9ef08-6345-44d6-88a5-c4b7c8b0384e?style=social)
+[![wakatime](https://wakatime.com/badge/user/750f007a-7144-47f9-ba97-3b60f8e61043.svg)](https://wakatime.com/@750f007a-7144-47f9-ba97-3b60f8e61043)
 
 ![Brian GitHub stats](https://github-readme-stats.vercel.app/api?username=cartoon01&show_icons=true&count_private=true&theme=github_dark)
