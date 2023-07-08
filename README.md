@@ -1,8 +1,8 @@
 ``` Python
-def greet:
+def great:
     print("Hello")
 
-greet()
+great()
 ```
 
 [Recursion](https://github.com/cartoon01)
