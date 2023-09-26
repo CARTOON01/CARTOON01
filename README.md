@@ -5,7 +5,7 @@ def great:
 great()
 ```
 
-(<script src="https://tryhackme.com/badge/1277355"></script>)
+(![TRYHACKME]<script src="https://tryhackme.com/badge/1277355"></script>)
 
 [![twitter](https://img.shields.io/twitter/follow/ItNgugi?logo=twitter&style=social)](https://twitter.com/ItNgugi)
 
