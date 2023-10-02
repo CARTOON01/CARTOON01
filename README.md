@@ -5,8 +5,6 @@ def great:
 great()
 ```
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/woodcontinued88.png" alt="TryHackMe">
-
 [![twitter](https://img.shields.io/twitter/follow/ItNgugi?logo=twitter&style=social)](https://twitter.com/ItNgugi)
 
 # GitHub Statistics
