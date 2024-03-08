@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/itngugi" target="blank"><img src="https://img.shields.io/twitter/follow/itngugi?logo=twitter&style=for-the-badge" alt="itngugi" /></a> </p>
 
-- 📫 How to reach me **info@briankamau.com**
-- :mailbox_with_no_mail: Know about my experiences [https://www.linkedin.com/in/brianngugi](https://www.linkedin.com/in/brianngugi)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itngugi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itngugi" height="30" width="40" /></a>
@@ -20,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cartoon01&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cartoon01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cartoon01&show_icons=true&locale=en&theme=github_dark" alt="cartoon01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CARTOON01&show_icons=true&locale=en&theme=github_dark" alt="cartoon01" /></p>
