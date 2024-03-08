@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itngugi" target="blank"><img src="https://img.shields.io/twitter/follow/itngugi?logo=twitter&style=for-the-badge" alt="itngugi" /></a> </p>
 
-- 📫 How to reach me **info@briankamu.com**
+- 📫 How to reach me **info@briankamau.com**
 - :mailbox_with_no_mail: Know about my experiences [https://www.linkedin.com/in/brianngugi](https://www.linkedin.com/in/brianngugi)
 
 <h3 align="left">Connect with me:</h3>
