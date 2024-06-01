@@ -21,6 +21,7 @@ I am still pivoting my way into the cybersecurity field.
 ![Node.js](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&color=warning&logo=python)
 
+## 📊 Statistics
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cartoon01&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" style="width: 45%; height: 200px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=cartoon01&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" style="width: 45%; height: 200px;" />
