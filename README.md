@@ -9,6 +9,8 @@
 An intermediate level Software engineer specializing in backend technologies. Familiar with both remote and in-office roles. Always seeking to take ownership of projects and deliver faster than expected. Comfortable with web development.
 
 I am still pivoting my way into the cybersecurity field.
+
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/RootRuler.png" alt="TryHackMe Badge">
 
 ## 🛠️ Technologies & Tools
