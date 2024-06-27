@@ -23,6 +23,6 @@ I am still pivoting my way into the cybersecurity field.
 
 ## 📊 Statistics
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cartoon01&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" style="width: 45%; height: 200px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cartoon01&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cartoon01" />
   <img src="https://github-readme-stats.vercel.app/api?username=cartoon01&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" style="width: 45%; height: 200px;" />
 </div>
