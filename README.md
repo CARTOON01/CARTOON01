@@ -6,7 +6,7 @@
 <h3 align="center">DEVSECOPS</h3>
 
 ## 👋 Hello!
-An intermediate level Software engineer specializing in backend technologies. Familiar with both remote and in-office roles. Always seeking to take ownership of projects and deliver faster than expected. Comfortable with web development.
+An intermediate level Software engineer specializing in backend technologies. Familiar with both remote and in-office roles. Always seeking to take ownership of projects and deliver faster than expected.
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
